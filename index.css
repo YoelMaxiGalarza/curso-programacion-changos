@@ -1,0 +1,35 @@
+:root{
+
+    font-size: 10px;
+}
+body {
+  background-color: black;
+  color: white;
+}
+
+p {
+  font-size: 25px;
+  margin: 0;
+}
+
+span {
+    font-size: 3rem;
+}
+
+#listaDesordenada {
+    list-style-type: none;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.interior {
+    width: 100px;
+  margin: 10px;
+}
+
+.exterior {
+    padding: 10px 20px;
+    margin: 20px 10px;
+    border: 2px solid #16727367;
+}
