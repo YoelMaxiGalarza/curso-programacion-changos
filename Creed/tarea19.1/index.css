@@ -1,0 +1,24 @@
+body {
+    background-color: #344577;
+    color: white;
+  }
+
+  img{
+    width: 80px;
+  }
+
+  div{
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+  }
+  ol{
+    border: 1px solid snow;
+    padding: 20px;
+    margin: 80px;
+  }
+  #listaAlRevez{
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  
