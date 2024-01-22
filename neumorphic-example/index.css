@@ -1,0 +1,83 @@
+.container {
+  width: 100px;
+  margin: 100px 0 100px 0;
+  padding: 100px 0;
+  border-radius: 2%;
+  background: #f2f2f2;
+  box-shadow: 5px 5px 6px #5a5a5a, -5px -5px 6px #ffffff;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#fotoPerfil {
+  width: 180px;
+  border-radius: 50%;
+  background: #ffffff;
+  border: solid 10px white;
+  box-shadow: 5px 5px 10px #5a5a5a, -10px -10px 20px #ffffff;
+  margin-bottom: 30px;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#fb {
+  width: 40px;
+}
+
+#inst {
+  width: 35px;
+}
+
+#tw {
+  width: 30px;
+}
+
+.round_button {
+  border-radius: 50%;
+  background: #ffffff;
+  box-shadow: 10px 10px 6px #898989, -5px -5px 4px #ffffff;
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  border: 0px;
+  margin: 0 20px 10px 20px;
+}
+
+.box_button {
+  border-radius: 5%;
+  background: #fff;
+  box-shadow: 5px 5px 10px #5a5a5a, -5px -5px 10px #ffffff;
+  width: 150px;
+  height: 50px;
+  margin: 10px;
+  border: 0px;
+}
+
+.info {
+  width: fit-content;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.info > p {
+  margin: 20px;
+}
+
+.middle_button {
+  padding: 0 20px;
+  border-left: 3px solid gray;
+  border-right: 3px solid gray;
+  border-radius: 1px;
+}
