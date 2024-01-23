@@ -1,0 +1,28 @@
+body {
+	background-color: #344577;
+	color: #fff;
+}
+
+.espaciado {
+	display: flex;
+	justify-content: space-around;
+}
+
+.centerConteiner {
+	display: flex;	
+	align-items: center;
+	justify-content: center;
+}
+
+		
+.olr {
+	display: flex;
+	flex-direction: column-reverse;
+}
+img {
+	width: 80px;
+}
+
+.box {
+	padding: 50px;
+}
