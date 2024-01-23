@@ -2,9 +2,15 @@ body{
     background-color: #344577;
     color: #fff;
 }
-#container {
+#spaceContent {
     display: flex;
     justify-content: space-around;
+}
+
+#centerContent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .sections{
