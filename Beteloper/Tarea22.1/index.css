@@ -15,18 +15,29 @@ ol {
 
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-around;
     
 }
 #button {
     width: 20px;
-    height: 20px;
+    height: 20px;s
 }
 .boxButton {
 
     display: flex;
     flex-direction: row;
-    justify-content: center;    
+    justify-content: space-around;   
+     
     
+}
+p {
+    text-align: justify;
+}
+.boxText {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+
 }
 
